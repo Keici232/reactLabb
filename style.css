@@ -1,0 +1,25 @@
+.EmployeeDiv {
+  display: flex;
+  box-sizing: border-box;
+  width: 50%;
+  border: 2px solid black;
+  margin: 1rem;
+  padding: 1rem;
+  background-color: #dedede;
+}
+
+.Avatar {
+  width: 200px;
+  height: 200px;
+  margin-right: 2rem;
+}
+
+.button{
+    font-size: 1.5rem;
+    background-color: #4CAF50;
+    color: whitesmoke;
+    border: none;
+    padding: 1rem;
+    cursor: pointer;
+
+}
